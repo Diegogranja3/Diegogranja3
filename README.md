@@ -61,17 +61,8 @@ Desarrollador Full-Stack · Estudiante UANL · Monterrey, MX
 
 ---
 
-## 📊 GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/TU_USUARIO)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/TU_USUARIO)
-
----
-
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:granjapenadiego82@gmail.com)
     
     
